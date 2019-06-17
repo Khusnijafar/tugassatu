@@ -1,4 +1,4 @@
-contoh array of object
+contoh array of object pada Java Script
 
 let products = [
   {
